@@ -5,11 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Net Zero from Day Zero</title>
-  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/svg+xml" href="assets/nzfdz_favicon.svg">
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     html, body {
       height: 100%;
+      font: 'Inter', sans-serif;
     }
     iframe {
       width: 100%;
@@ -20,20 +21,23 @@
 <body class="bg-black text-white font-sans flex flex-col items-center justify-center h-full">
 
   <!-- Logo at top left -->
-  <div class="absolute top-4 left-4">
-    <img src="logo.svg" alt="Net Zero Logo" class="w-16 h-16">
-  </div>
+  <!-- <div class="absolute top-4 left-4">
+    <img src="assets/nzfdz_logo.svg" alt="" style="max-width: 150px; max-height: 150px;">
+  </div> -->
 
   <!-- Main Content -->
-  <div class="text-center px-4">
-    <h1 class="text-3xl md:text-5xl font-bold mb-4">One day every company will be Net Zero from the day they start</h1>
+  <div class="container mx-auto text-left px-4 md:px-0 max-w-3xl">
+    <p class="text-xl md:text-2xl mb-6">One day... every company will be Net Zero from the day they're founded.</p>
+    <p class="text-xl md:text-2xl mb-6">It's the only way to ensure a sustainable future for all.</p>
     <p class="text-xl md:text-2xl mb-6">We're building towards that day.</p>
-    <p class="text-lg md:text-xl mb-6">Join the community of companies pushing for:</p>
+    <p class="text-xl md:text-2xl mb-20">Join the community of startups pushing for:</p>
 
     <!-- Button to open iframe -->
-    <button id="joinButton" class="bg-white text-black py-2 px-6 rounded-full text-lg font-semibold transition transform hover:scale-105">
-      Join the Community
-    </button>
+    <div class="flex justify-center">
+      <button id="joinButton" class="bg-white text-black py-2 px-6 rounded-full text-lg font-bold transition transform hover:scale-105">
+        Net Zero <span class="italic">from</span> Day Zero
+      </button>
+    </div>
   </div>
 
   <!-- Hidden iframe container -->
