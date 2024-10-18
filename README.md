@@ -13,3 +13,5 @@ Join the community of startups pushing for:
   </picture>
  </a>
 </h1>
+
+Check out the size on [Website Carbon](https://www.websitecarbon.com/website/ches-ctrl-github-io-nzfdz/).
