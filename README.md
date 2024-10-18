@@ -3,4 +3,4 @@ It's the only way to ensure a sustainable future for all.
 We're building towards that day.
 Join the community of startups pushing for:
 
-Net Zero from Day Zero
+<center><img src="assets/nzfdz_logo.svg" alt="Logo" width="300" height="300"></center>
