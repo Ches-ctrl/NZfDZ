@@ -14,4 +14,4 @@ Join the community of startups pushing for:
  </a>
 </h1>
 
-Check out the size on [Website Carbon](https://www.websitecarbon.com/website/ches-ctrl-github-io-nzfdz/).
+Check out the site on [Website Carbon](https://www.websitecarbon.com/website/ches-ctrl-github-io-nzfdz/) or [Ecograder](https://ecograder.com/report/NaTQOoM9H60YzsJaHawVWNEf).
